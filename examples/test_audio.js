@@ -86,8 +86,7 @@ function main()
 	
 	context.window = sdl_window;
 
-	//let path = "/Users/kyeongwoon/Desktop/movie/미드/Suits Season 1/Suits.S01E01.720p.HDTV.x264.mkv";
-	let path = '/Users/kyeongwoon/Desktop/movie/영어/Learn Real English/Assisted Living Conversation.mp3';
+	let path = 'your.mp3';
 	AV.av_register_all();
 	ic = AV.avformat_open_input(path);
 	AV.av_dump_format(ic, path)
