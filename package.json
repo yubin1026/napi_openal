@@ -2,14 +2,14 @@
   "author": "yubin",
   "name": "napi_openal",
   "description": "Open AL bindings with N-API",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/yubin1026/napi_openal.git"
   },
   "homepage": "https://github.com/yubin1026/napi_openal",
-  "keyword": [
+  "keywords": [
     "napi",
     "openal"
   ],

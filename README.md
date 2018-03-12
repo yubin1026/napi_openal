@@ -1,10 +1,11 @@
 # napi_openal
 
-The goal of this library provides OpenAL bindings for node using N-API.
+The goal of this library provides OpenAL bindings for node using N-API.  
+You also need [napi_ffmpeg](https://github.com/yubin1026/napi_ffmpeg) for handling media files.
 
 
 ## Supported OS
-Currently only macOS
+Currently only macOS but will support others soon.
 
 
 ## Installation
